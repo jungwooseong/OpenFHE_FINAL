@@ -62,12 +62,6 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-의존성을 설치합니다.
-
-```bash
-pip install -r requirements.txt
-```
-
 ## 로컬 이미지 준비
 
 얼굴 이미지는 개인정보 보호를 위해 GitHub 저장소에 포함하지 않습니다.
