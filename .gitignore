@@ -1,0 +1,61 @@
+# Virtual environments
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Face images and biometric data
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.PNG
+
+register/
+verify/
+dataset/
+datasets/
+face_images/
+test_images/
+
+# Cryptographic keys
+keys/
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cipher
+*.ciphertext
+
+# Databases
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+secrets/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
