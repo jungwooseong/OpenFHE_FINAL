@@ -62,7 +62,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-클라이언트와 서버에 각각 `requirements.txt`가 있는 경우 다음과 같이 설치합니다.
+의존성을 설치합니다.
 
 ```bash
 pip install -r requirements.txt
