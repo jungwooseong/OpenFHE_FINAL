@@ -65,8 +65,7 @@ pip install -r requirements.txt
 클라이언트와 서버에 각각 `requirements.txt`가 있는 경우 다음과 같이 설치합니다.
 
 ```bash
-pip install -r client/requirements.txt
-pip install -r server/requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 로컬 이미지 준비
